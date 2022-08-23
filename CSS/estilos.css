@@ -1,0 +1,9 @@
+*{
+    border: solid 2px red;
+}
+
+p{
+    color: blueviolet;
+    background-color: lavender;
+    padding: 20px;
+}
