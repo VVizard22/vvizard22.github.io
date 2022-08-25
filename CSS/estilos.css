@@ -1,9 +1,17 @@
 *{
-    border: solid 2px red;
+    /* border: solid 2px red; */
+}
+.Div{
+    /* background: linear-gradient(#4287f5, #000000);; */
+    /* padding: 1px; */
+}
+h1{
+    text-align: center;
+    
+    /* border: solid 10px linear-gradient(#4287f5, #000000); */
 }
 
-p{
-    color: blueviolet;
-    background-color: lavender;
-    padding: 20px;
+span{
+    display:inline-block;
+    /* background: #4287f5; */
 }
